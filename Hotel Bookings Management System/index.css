@@ -1,0 +1,81 @@
+body{
+    border: 5px solid #fff;
+    margin: 10px;
+}
+
+.Section1{
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    background-color: #CD1818;   
+}
+
+.Section2{
+    padding: 80px;
+    padding-bottom: 20px;
+    color: #fff;
+    font-family: 'Orelega One', cursive;
+    font-size: 7rem;
+}
+
+.Section3{
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;   
+}
+
+.Section4{
+    padding: 20px;
+    padding-bottom: 20px;
+    color: #CD1818;
+    font-family: 'Orelega One', cursive;
+    text-align: center;
+    font-size: 3rem;
+}
+
+hr {
+    width: 5%;
+background-color: #fff;
+        border-top: 10px dotted  #CD1818;
+}
+
+.Section5{
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    background-color: #CD1818;     
+}
+
+.Section7{
+    padding: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    font-family: 'Orelega One', cursive;
+    text-align: center;
+    font-size: 3rem;
+}
+
+p{
+    padding: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    font-family: 'Orelega One', cursive;
+    text-align: center;
+    font-size: 1.5rem; 
+}
+
+.white{
+        width: 5%;
+background-color: #CD1818;
+        border-top: 10px dotted  #fff;
+}
+
+.Section9{
+    padding: 20px;
+    padding-bottom: 20px;
+    color: #CD1818;
+    font-family: 'Orelega One', cursive;
+    text-align: center;
+    font-size: 3rem;
+}

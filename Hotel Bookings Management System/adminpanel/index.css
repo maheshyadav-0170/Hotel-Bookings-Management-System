@@ -1,0 +1,75 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #F7F7F7;
+}
+
+a{
+    padding-top: 10px;
+    padding-left: 10px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.Section1{
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    background-color: #DD4A48;
+}
+
+.Section2{
+    text-align: center;
+}
+
+.Section3{
+    text-align: center;
+}
+
+.Section4{
+    padding-top: 30px;
+    padding-left: 470px;
+}
+
+.form-group{
+    padding-bottom: 30px;
+    font-size: large;
+    
+}
+
+form-control-lg{
+    font-size: 1.5rem;
+}
+.form-control{
+    font-weight: bold;
+    color: #DD4A48;
+    width: 60%;
+    font-size: 1.5rem;
+}
+
+input{
+        font-weight: bold;
+    color: #DD4A48;
+    width: 60%;
+    font-size: 1.5rem;
+}
+
+.Section4{
+    font-size: 1.5rem;
+}
+label{
+    font-weight: lighter;
+}
+
+.Section6{
+    text-align: center;
+}
+
+h4 h5{
+   color: #7C99AC;
+}

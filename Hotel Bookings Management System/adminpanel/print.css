@@ -1,0 +1,56 @@
+body{
+    padding-top: 10px;
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+    font-weight: bold;
+    border: 10px solid black;
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 50px;
+    background-color: #fff;
+}
+
+.Section{
+    background-color: #fff;
+}
+.Section1{
+    margin-top: 20px;
+    color: black;
+    background-color: #fff;
+}
+
+.Section3{
+    padding-top: 50px;
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+    font-size: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    background-color: #fff;
+}
+
+table{
+    width: 40%;
+    font-family: 'Quicksand', sans-serif;
+    font-size: medium;
+    font-weight: bolder;
+
+}
+
+.Section4{
+    padding-top: 50px;
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+    font-size: 40px;
+    padding-left: 100px;
+    text-align: center;
+    padding-right: 100px;
+    font-weight: bolder;
+    background-color: #fff;
+}
+
+.Section5{
+    padding-top: 300px;
+}
